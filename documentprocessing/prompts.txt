@@ -1,0 +1,3 @@
+Tax Invoice: Please extract the Supplier Name, Line Items (with prices, quantities, and amounts), and Buyer Details (name, address, contact).
+Amazon Bill: Extract the Supplier Name, Supplier Address, Line Item Description and Shipping Address only.
+Cash Memo: Extract the Supplier Name, Line Items, and Buyer Details for the Cash Memo.
